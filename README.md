@@ -10,6 +10,8 @@ I'm a professional developer (backend, machine learning, data science). An avid 
 
 You can find my CV here: [Markdown](https://gitvictor.dev/markdown-cv/) \| [PDF](https://gitvictor.dev/markdown-cv/victor-davis-cv.pdf)
 
+Want to hire me? [LinkedIn](https://www.linkedin.com/in/gitvictor/) \| [Toptal](https://www.toptal.com/developers/resume/victor-davis)
+
 
 
 ### Recommended Podcasts
