@@ -1,5 +1,3 @@
-## Hello, world!
-
 ![My Face](images/profile-pic.jpg)
 
 ## About Me
@@ -10,7 +8,7 @@ I'm a professional developer (backend, machine learning, data science). An avid 
 
 ### Professional
 
-You can find my CV here: [Markdown](https://gitvictor.dev/markdown-cv/) | [PDF](https://gitvictor.dev/markdown-cv/victor-davis-cv.pdf)
+You can find my CV here: [Markdown](https://gitvictor.dev/markdown-cv/) \| [PDF](https://gitvictor.dev/markdown-cv/victor-davis-cv.pdf)
 
 
 
@@ -45,7 +43,7 @@ You can find my CV here: [Markdown](https://gitvictor.dev/markdown-cv/) | [PDF](
 - [Search Party](https://www.youtube.com/@SearchParty)
 - [Storied](https://www.youtube.com/@pbsstoried)
 
-### 
+
 
 ### Recommended Books
 
